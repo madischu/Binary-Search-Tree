@@ -85,3 +85,12 @@ FUNCTION insert(node, value)
         Insert into right subtree
 END FUNCTION
 ```
+
+## UML Class Diagrams
+<img width="338" height="177" alt="image" src="https://github.com/user-attachments/assets/07867dc4-6528-474a-b780-8f1a1dae57b3" />
+<img width="337" height="278" alt="image" src="https://github.com/user-attachments/assets/555ab345-7753-46eb-ad65-9a0fd72cc2cf" />
+<img width="337" height="198" alt="image" src="https://github.com/user-attachments/assets/d03b7102-25e3-480c-889f-969ad9572242" />
+
+## Use Case Diagram
+<img width="362" height="911" alt="image" src="https://github.com/user-attachments/assets/12355d5c-b79d-4270-91d3-74ecc84a1999" />
+
